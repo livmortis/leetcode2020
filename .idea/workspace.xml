@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269267db-54cf-4fa1-b623-d74aa4cb4ad3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0319_longestPalindrome_409.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0319_longestPalindrome_409.py" beforeDir="false" afterPath="$PROJECT_DIR$/0319_longestPalindrome_409.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +180,7 @@
       <workItem from="1584421666533" duration="4417000" />
       <workItem from="1584493408035" duration="2990000" />
       <workItem from="1584504848976" duration="5965000" />
-      <workItem from="1584581391533" duration="4237000" />
+      <workItem from="1584581391533" duration="4524000" />
     </task>
     <servers />
   </component>

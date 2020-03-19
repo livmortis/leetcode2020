@@ -5,7 +5,12 @@
 # 注意:
 # 假设字符串的长度不会超过 1010。
 ''''''
-'''self'''
+'''self
+执行用时 :148 ms, 在所有 Python3 提交中击败了5.04%的用户
+内存消耗 :13.6 MB, 在所有 Python3 提交中击败了5.32%的用户
+
+1、双向队列作为数据结构，左右append。
+'''
 import collections
 def longestPalindrome(s) -> int:
     result = collections.deque()
